@@ -19,4 +19,4 @@ Record rate - Graph will record data every time this number of ticks pass.
 Recoverd rate - 
 Number of days passed -
 
-<img src="/docs/1.jpg"/>
+<img src="/doc/1.jpg"/>
