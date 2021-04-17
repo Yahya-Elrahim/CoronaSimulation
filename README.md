@@ -17,4 +17,6 @@ Tickrate - Delay on timer
 People - Number of people per simulation.
 Record rate - Graph will record data every time this number of ticks pass.
 Recoverd rate - 
-Days number - 
+Number of days passed -
+
+<img src="/docs/1.jpg"/>
